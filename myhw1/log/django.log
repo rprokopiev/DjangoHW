@@ -1,0 +1,11 @@
+Watching for file changes with StatReloader
+"GET / HTTP/1.1" 200 63
+"GET /about/ HTTP/1.1" 200 66
+C:\Users\RND\Documents\RP\19_Django\HW\HW1\myhw1\myhw1\settings.py changed, reloading.
+INFO 2024-02-11 19:48:35,211 autoreload 1388 6424 Watching for file changes with StatReloader
+INFO 2024-02-11 19:48:44,438 views 1388 4052 INDEX page raised
+INFO 2024-02-11 19:48:44,440 basehttp 1388 4052 "GET / HTTP/1.1" 200 63
+INFO 2024-02-11 19:48:51,633 views 1388 4052 MAIN page raised
+INFO 2024-02-11 19:48:51,633 basehttp 1388 4052 "GET /main/ HTTP/1.1" 200 62
+INFO 2024-02-11 19:48:59,348 views 1388 4052 ABOUT page raised
+INFO 2024-02-11 19:48:59,348 basehttp 1388 4052 "GET /about/ HTTP/1.1" 200 66
